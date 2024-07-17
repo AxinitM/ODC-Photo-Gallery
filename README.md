@@ -10,7 +10,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Screenshot
 
-![](/image/Screenshot.png)
+![](./image/Screenshot.png)
 
 ### Links
 
